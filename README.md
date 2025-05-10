@@ -5,14 +5,14 @@ My first repository
 
 The **Fast & Furious** franchise is an action-packed movie series centered on street racing, heists, and family.
 
+![Fast & Furious ](https://th.bing.com/th/id/OIP.jMlyLKc7E57hcTJTxf16ngHaHa?cb=iwp1&w=1200&h=1200&rs=1&pid=ImgDetMain)
+
 ## Main Characters
 - Dominic Toretto (Vin Diesel)
 - Brian O'Conner (Paul Walker)
 - Letty Ortiz (Michelle Rodriguez)
 - Roman Pearce (Tyrese Gibson)
 - Tej Parker (Ludacris)
-
-![Fast & Furious ](https://th.bing.com/th/id/OIP.jMlyLKc7E57hcTJTxf16ngHaHa?cb=iwp1&w=1200&h=1200&rs=1&pid=ImgDetMain)
 
 ## Favorite Movies in the Series
 1. Fast Five
@@ -22,7 +22,6 @@ The **Fast & Furious** franchise is an action-packed movie series centered on st
 > "I live my life a quarter mile at a time." – Dominic Toretto
 
 ---
-
 
 
 ## Why I Like It

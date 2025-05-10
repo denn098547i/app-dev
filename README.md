@@ -15,7 +15,7 @@ My first repository
 - Roman Pearce (Tyrese Gibson)
 - Tej Parker (Ludacris)
 
-## Favorite Movies in the Series
+## Favorite Episode in the Series
 1. Fast Five
 2. Furious 7
 3. The Fate of the Furious

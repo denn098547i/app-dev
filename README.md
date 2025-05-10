@@ -12,7 +12,7 @@ The **Fast & Furious** franchise is an action-packed movie series centered on st
 - Roman Pearce (Tyrese Gibson)
 - Tej Parker (Ludacris)
 
-![Fast & Furious ](https://images.summitmedia-digital.com/spotph/images/2023/05/23/fast-and-furious-movies-ranked-1200-1684828161.jpg)
+![Fast & Furious ](https://th.bing.com/th/id/OIP.jMlyLKc7E57hcTJTxf16ngHaHa?cb=iwp1&w=1200&h=1200&rs=1&pid=ImgDetMain)
 
 ## Favorite Movies in the Series
 1. Fast Five

@@ -4,7 +4,7 @@ My first repository
 
 # Fast & Furious Series
 
-**Fast & Furious**, also known as The Fast and the Furious, is an American action media franchise centered on a series of films revolving around street racing, heists, spies and family. The franchise also includes short films, a television series, toys, video games, live shows, and theme park attractions.
+**Fast & Furious**, also known as The Fast and the Furious, is an American action media franchise centered on a series of films revolving around street racing, heists, spies and family. The franchise also includes short films, a television series, toys, video games, live shows, and theme park attractions. 
 
 ![Fast & Furious ](https://th.bing.com/th/id/OIP.jMlyLKc7E57hcTJTxf16ngHaHa?cb=iwp1&w=1200&h=1200&rs=1&pid=ImgDetMain)
 

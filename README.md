@@ -21,7 +21,8 @@ The **Fast & Furious** franchise is an action-packed movie series centered on st
 
 ---
 
-![Fast & Furious ]([https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Fast_%26_Furious_logo.svg/1200px-Fast_%26_Furious_logo.svg.png](https://vignette.wikia.nocookie.net/fastandfurious/images/0/04/The_Fast_and_the_Furious_(DVD_Cover).jpeg/revision/latest?cb=20150501043627))
+![Fast & Furious ](![image](https://github.com/user-attachments/assets/48ed753e-0027-4fd7-8d67-241af4284753)
+)
 
 ## Why I Like It
 The series combines thrilling car chases, high-stakes action, and heartfelt moments that emphasize the importance of family.
